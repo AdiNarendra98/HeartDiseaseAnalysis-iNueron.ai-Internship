@@ -1,5 +1,13 @@
-# Heart Disease Diagnosis Analysis 🩺🩻❤️📊 - iNueron.ai Internship 
+# Heart Disease Diagnosis Analysis 🩺🩻❤️📊 [iNueron.ai Internship]
+<p align="center">
+  <img 
+    width="650"
+    height="500"
+    src="https://github.com/AdiNarendra98/HeartDiseaseAnalysis-iNueron.ai-Internship/blob/main/ss.png"
+  >
+</p>
 
+## Contents 
 
 
 - #### [Problem Statement](https://drive.google.com/file/d/1hatpLDCd_wJqhHe93tkXJI8ePD697xti/view)
