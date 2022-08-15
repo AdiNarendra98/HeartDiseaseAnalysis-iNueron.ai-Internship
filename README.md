@@ -16,7 +16,7 @@
 
 - #### Domain - Business Analytics, Healthcare
 
-- #### Technologies and Tools Used - **Python, Data Science Libraries(Numpy, Matplotlib, Seaborn) , Tableau**
+- #### Technologies and Tools Used - **Python, Data Science Libraries(Numpy, Matplotlib, Seaborn) ,Tableau**
 
 - #### Tableau Public Dashboard - [Link](https://public.tableau.com/app/profile/aditya.narendra/viz/HeartDiseaseDiagnosticAnalysisProject/PopulationCountbyGender)
 
