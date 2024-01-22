@@ -1,4 +1,4 @@
-# Heart Disease Diagnosis Analysis 🩺🩻❤️📊 [iNueron.ai Internship]
+# Heart Disease Diagnosis Analysis 🩺🩻❤️📊 [iNeuron.ai Internship]
 <p align="center">
   <img 
     width="650"
